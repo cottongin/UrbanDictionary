@@ -1,3 +1,5 @@
+## this is archived please see https://gitlab.com/cottongin/UrbanDictionary or the original from spline
+
 [![Build Status](https://travis-ci.org/reticulatingspline/UrbanDictionary.svg?branch=master)](https://travis-ci.org/reticulatingspline/UrbanDictionary)
 
 # Limnoria plugin for UrbanDictionary
